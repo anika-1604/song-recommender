@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Get personalized song recommendations based on your current mood">
+    <title>Mood-Based Song Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Mood-Based Song Recommender</h1>
+        
+        <section class="mood-selector-section">
+            <label for="mood-dropdown">How are you feeling today?</label>
+            <select id="mood-dropdown" name="mood" aria-label="Select your current mood">
+                <option value="">-- Select a mood --</option>
+                <option value="happy">Happy</option>
+                <option value="sad">Sad</option>
+                <option value="nostalgic">Nostalgic</option>
+                <option value="energetic">Energetic</option>
+            </select>
+        </section>
+
+        <button id="recommend-button" type="button" aria-label="Get song recommendation">
+            Recommend a Song
+        </button>
+
+        <section class="result-container" aria-live="polite" aria-atomic="true">
+            <!-- Song recommendation will be displayed here -->
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

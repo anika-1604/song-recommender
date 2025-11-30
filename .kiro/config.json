@@ -1,0 +1,6 @@
+{
+  "appName": "Mood-Based Song Recommender",
+  "version": "1.0.0",
+  "dataSource": "songs.json",
+  "moods": ["happy", "sad", "nostalgic", "energetic"]
+}

@@ -1,0 +1,42 @@
+{
+  "happy": [
+    "Walking on Sunshine – Katrina and the Waves",
+    "Happy – Pharrell Williams",
+    "Good Vibrations – The Beach Boys",
+    "Don't Stop Me Now – Queen",
+    "I Got You (I Feel Good) – James Brown",
+    "Three Little Birds – Bob Marley",
+    "Best Day of My Life – American Authors",
+    "Electric Feel – MGMT"
+  ],
+  "sad": [
+    "Someone Like You – Adele",
+    "Hurt – Johnny Cash",
+    "The Night We Met – Lord Huron",
+    "Mad World – Gary Jules",
+    "Tears in Heaven – Eric Clapton",
+    "Yesterday – The Beatles",
+    "Skinny Love – Bon Iver",
+    "Fix You – Coldplay"
+  ],
+  "nostalgic": [
+    "Summer of '69 – Bryan Adams",
+    "Don't Stop Believin' – Journey",
+    "Sweet Child O' Mine – Guns N' Roses",
+    "Wonderwall – Oasis",
+    "Mr. Brightside – The Killers",
+    "Closing Time – Semisonic",
+    "1979 – The Smashing Pumpkins",
+    "Take On Me – a-ha"
+  ],
+  "energetic": [
+    "Eye of the Tiger – Survivor",
+    "Thunderstruck – AC/DC",
+    "Lose Yourself – Eminem",
+    "Pump It – The Black Eyed Peas",
+    "Can't Hold Us – Macklemore & Ryan Lewis",
+    "Till I Collapse – Eminem",
+    "Stronger – Kanye West",
+    "We Will Rock You – Queen"
+  ]
+}
